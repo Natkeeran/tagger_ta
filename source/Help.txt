@@ -1,0 +1,58 @@
+HELP
+Automatic Tagger 1.0
+
+CONTENTS
+1. Select a File
+2. Tag the File
+3. Clear the window
+4. Exit the application
+
+1. SELECT A FILE
+Click the "Select" button and choose the input text
+file(TAB-encoded)
+
+2. TAG THE FILE
+Click the tag button to get the taggged output and
+percentage of tagging
+
+3. CLEAR THE WINDOW
+Click the "Clear" button to remove the contents and
+refresh the window
+
+4. EXIT THE APPLICATION
+Click the "Exit" button to exit from this application
+
+
+аох§
+ощҐщ§тиҐииҐ ∞ш§рҐр£щҐҐ 1.0
+
+ачҐчмиҐисҐ
+
+1. Ђи£рҐђроҐ ЂоуҐпҐ™оі
+
+2. Ђи£рҐђррҐ р§у§оҐо£ј
+
+3. ађуђт №ц§иҐи
+
+4. ™хч§ЂтЅ
+
+1. Ђи£рҐђроҐ ЂоуҐпҐ™оі
+
+ "ЂоуҐпҐ™оіҐ" вщҐрђокҐ ™к£іиҐи§щ£фҐ
+	айҐијиҐ∞ х§ЉрҐрс£щ ачҐч¶мҐђмоҐ ЂоуҐЊ ™ктҐтф£сҐ (ЂмрҐ -вњоҐґЉ)
+
+2. Ђи£рҐђррҐ р§у§оҐо£ј
+
+ "∞ш§т§іҐ" вщҐрђокҐ ™к£іиҐи§щ£фҐ
+	п¶йҐичҐ ЂоуҐпҐ™оіоҐо ачҐч¶і ёрҐ™р£њґ р§у§оҐґ и£мҐмрҐрісҐ
+	№о¬мщҐ ачҐч¶мҐЃщҐ ™с£оҐо х£уҐоҐђоичҐ,р∞оҐо х£уҐоҐђоичҐ
+	сшҐЅсҐ р∞оҐо х£уҐоҐђоич§щҐ кох§и§осҐ Їоф§тђх и£мҐмрҐрісҐ
+
+3. ађуђт №ц§иҐи
+	
+	п¶йҐичҐ ЂоуҐпҐ™оіоҐо ачҐч¶мҐђм №ц§иҐи "№ц§иҐи" вщҐрђокҐ ™к£іиҐиЊсҐ
+
+4. ™хч§ЂтЅ
+
+	п¶йҐичҐ ёпҐо ртщҐр£мҐЃф§ЉпҐґ ™хч§Ђтш ""™хч§ЂтЅ" вщҐрђокҐ ™к£іиҐиЊсҐ
+
